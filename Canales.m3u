@@ -566,7 +566,7 @@ http://user.tvcluboficial.com/stream/nov/nov/102.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/759.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" ,Win Sports
 http://user.tvcluboficial.com/stream/nov/nov/292.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports +
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png",Win Sports +
 http://user.tvcluboficial.com/stream/nov/nov/881.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" ,WWE Network
 http://user.tvcluboficial.com/stream/nov/nov/276.m3u8
