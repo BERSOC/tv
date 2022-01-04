@@ -47,8 +47,6 @@ http://user.tvcluboficial.com/stream/nov/nov/8.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/753.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" ,BeinSports Ñ
 http://user.tvcluboficial.com/stream/nov/nov/761.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" ,Bolivision
-http://user.tvcluboficial.com/stream/nov/nov/783.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" ,Canal 2 Televicentro
 http://user.tvcluboficial.com/stream/nov/nov/211.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" ,Canal 5
@@ -175,8 +173,6 @@ http://user.tvcluboficial.com/stream/nov/nov/239.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/157.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" ,El Nueve
 http://user.tvcluboficial.com/stream/nov/nov/772.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" ,El Trece
-http://user.tvcluboficial.com/stream/nov/nov/765.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" ,El Trece
 http://user.tvcluboficial.com/stream/nov/nov/767.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" ,Enlace Juvenil
@@ -299,10 +295,6 @@ http://user.tvcluboficial.com/stream/nov/nov/893.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/203.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" ,Más chic
 http://user.tvcluboficial.com/stream/nov/nov/180.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" ,Mega
-http://user.tvcluboficial.com/stream/nov/nov/766.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" ,Mega
-http://user.tvcluboficial.com/stream/nov/nov/784.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" ,Mega (ES)
 http://user.tvcluboficial.com/stream/nov/nov/352.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" ,Miami TV
@@ -437,10 +429,6 @@ http://user.tvcluboficial.com/stream/nov/nov/197.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/92.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" ,Televicentro
 http://user.tvcluboficial.com/stream/nov/nov/776.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" ,TigoSports Bolivia
-http://user.tvcluboficial.com/stream/nov/nov/764.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" ,TigoSports Paraguay
-http://user.tvcluboficial.com/stream/nov/nov/843.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" ,Tiin
 http://user.tvcluboficial.com/stream/nov/nov/93.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" ,TLC
@@ -514,11 +502,17 @@ http://user.tvcluboficial.com/stream/nov/nov/881.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" ,WWE Network
 http://user.tvcluboficial.com/stream/nov/nov/276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CL | LA RED HD" tvg-logo="https://i.imgur.com/MVEJNym.png" group-title="Nacionales CL",CL | LA RED HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55281
 #EXTINF:-1 tvg-id="" tvg-name="CL | TVN HD" tvg-logo="https://i.imgur.com/AVUsqs0.png" group-title="Nacionales CL",CL | TVN HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55279
 #EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="https://i.imgur.com/3iZT356.png" group-title="Nacionales CL",CL | MEGA HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55276
 #EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION HD" tvg-logo="https://i.imgur.com/vuLclYK.png" group-title="Nacionales CL",CL | CHILEVISION HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55273
 #EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 HD" tvg-logo="https://i.imgur.com/CPFCUvK.png" group-title="Nacionales CL",CL | CANAL 13 HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55270
 #EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS HD" tvg-logo="https://i.imgur.com/8DIarZK.png" group-title="Nacionales CL",CL | 24 HORAS HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55283
 #EXTINF:-1 tvg-id="" tvg-name="CL | CNN CHILE" tvg-logo="https://i.imgur.com/dnY2AfA.png" group-title="Nacionales CL",CL | CNN CHILE
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55284
 #EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS CL HD *" tvg-logo="http://latinoamericatv.vip:8080/images/4af52202f77beb11ba59ce2056aa7878.png" group-title="Nacionales CL",CL | TNT SPORTS CL HD *
@@ -531,8 +525,8 @@ http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55290
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55292
 #EXTINF:-1 tvg-id="" tvg-name="CL | RETRO PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu83PZVml2TblGQ5M-kaxeh1CIXfeVgRgfQ&usqp=CAU" group-title="Nacionales CL",CL | RETRO PLAY
 http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55293
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55294
 #EXTINF:-1 tvg-id="" tvg-name="CL | TV EDUCA" tvg-logo="https://i.ibb.co/mbp13XG/LOGO-tveduca-chile-scaled.jpg" group-title="Nacionales CL",CL | TV EDUCA
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55297
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
 http://user.tvcluboficial.com/stream/nov/nov/426.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
