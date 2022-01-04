@@ -3,18 +3,10 @@
 http://user.tvcluboficial.com/stream/nov/nov/426.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
 http://user.tvcluboficial.com/stream/nov/nov/677.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
-http://user.tvcluboficial.com/stream/nov/nov/883.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
 http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="24/7",Breaking Bad 24/7
-http://user.tvcluboficial.com/stream/nov/nov/846.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
-http://user.tvcluboficial.com/stream/nov/nov/789.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
 http://user.tvcluboficial.com/stream/nov/nov/427.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
-http://user.tvcluboficial.com/stream/nov/nov/788.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
 http://user.tvcluboficial.com/stream/nov/nov/521.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
@@ -25,22 +17,14 @@ http://user.tvcluboficial.com/stream/nov/nov/520.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/424.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/nov/nov/329.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-http://user.tvcluboficial.com/stream/nov/nov/790.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
 http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/429.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
 http://user.tvcluboficial.com/stream/nov/nov/845.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
-http://user.tvcluboficial.com/stream/nov/nov/791.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
 http://user.tvcluboficial.com/stream/nov/nov/525.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
 http://user.tvcluboficial.com/stream/nov/nov/430.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="24/7",El Señor de los Cielos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/820.m3u8
 #EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
 http://user.tvcluboficial.com/stream/nov/nov/793.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
@@ -51,48 +35,22 @@ http://user.tvcluboficial.com/stream/nov/nov/812.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/522.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
 http://user.tvcluboficial.com/stream/nov/nov/786.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Casa de Papel 24/7
-http://user.tvcluboficial.com/stream/nov/nov/403.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Familia PeLuche 24/7
-http://user.tvcluboficial.com/stream/nov/nov/811.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
 http://user.tvcluboficial.com/stream/nov/nov/887.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
 http://user.tvcluboficial.com/stream/nov/nov/671.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
-http://user.tvcluboficial.com/stream/nov/nov/792.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
 http://user.tvcluboficial.com/stream/nov/nov/886.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="24/7",La Vaca y ElPollito 24/7
-http://user.tvcluboficial.com/stream/nov/nov/809.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
 http://user.tvcluboficial.com/stream/nov/nov/888.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
 http://user.tvcluboficial.com/stream/nov/nov/524.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
-http://user.tvcluboficial.com/stream/nov/nov/423.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="24/7",Los Años Maravillosos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/810.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="24/7",Los Padrinos Magicos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/813.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
 http://user.tvcluboficial.com/stream/nov/nov/669.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
-http://user.tvcluboficial.com/stream/nov/nov/794.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/795.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
-http://user.tvcluboficial.com/stream/nov/nov/796.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
 http://user.tvcluboficial.com/stream/nov/nov/357.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/797.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="24/7",Los Vengadores Unidos 24/7
-http://user.tvcluboficial.com/stream/nov/nov/818.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
 http://user.tvcluboficial.com/stream/nov/nov/798.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="24/7",Max Steel 24/7
-http://user.tvcluboficial.com/stream/nov/nov/880.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
 http://user.tvcluboficial.com/stream/nov/nov/431.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
@@ -101,20 +59,12 @@ http://user.tvcluboficial.com/stream/nov/nov/523.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/661.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
 http://user.tvcluboficial.com/stream/nov/nov/416.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="24/7",Patoaventuras 24/7
-http://user.tvcluboficial.com/stream/nov/nov/819.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="24/7",Patrulla Canina 24/7
-http://user.tvcluboficial.com/stream/nov/nov/807.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
 http://user.tvcluboficial.com/stream/nov/nov/787.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
 http://user.tvcluboficial.com/stream/nov/nov/721.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
-http://user.tvcluboficial.com/stream/nov/nov/799.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
 http://user.tvcluboficial.com/stream/nov/nov/420.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
-http://user.tvcluboficial.com/stream/nov/nov/884.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
 http://user.tvcluboficial.com/stream/nov/nov/419.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
