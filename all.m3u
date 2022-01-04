@@ -85,8 +85,6 @@ http://user.tvcluboficial.com/stream/nov/nov/206.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/513.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" ,CDO Premium
 http://user.tvcluboficial.com/stream/nov/nov/401.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" ,CHV Chilevision
-http://user.tvcluboficial.com/stream/nov/nov/198.m3u8
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" ,Cine 2020
 http://user.tvcluboficial.com/stream/nov/nov/857.m3u8
 #EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" ,Cine Accion
@@ -515,3 +513,117 @@ http://user.tvcluboficial.com/stream/nov/nov/292.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/881.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" ,WWE Network
 http://user.tvcluboficial.com/stream/nov/nov/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CL | LA RED HD" tvg-logo="https://i.imgur.com/MVEJNym.png" group-title="Nacionales CL",CL | LA RED HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | TVN HD" tvg-logo="https://i.imgur.com/AVUsqs0.png" group-title="Nacionales CL",CL | TVN HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="https://i.imgur.com/3iZT356.png" group-title="Nacionales CL",CL | MEGA HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION HD" tvg-logo="https://i.imgur.com/vuLclYK.png" group-title="Nacionales CL",CL | CHILEVISION HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 HD" tvg-logo="https://i.imgur.com/CPFCUvK.png" group-title="Nacionales CL",CL | CANAL 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS HD" tvg-logo="https://i.imgur.com/8DIarZK.png" group-title="Nacionales CL",CL | 24 HORAS HD
+#EXTINF:-1 tvg-id="" tvg-name="CL | CNN CHILE" tvg-logo="https://i.imgur.com/dnY2AfA.png" group-title="Nacionales CL",CL | CNN CHILE
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55284
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS CL HD *" tvg-logo="http://latinoamericatv.vip:8080/images/4af52202f77beb11ba59ce2056aa7878.png" group-title="Nacionales CL",CL | TNT SPORTS CL HD *
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55288
+#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS 2  CL HD" tvg-logo="https://i.ibb.co/9br0KWF/unnamed.png" group-title="Nacionales CL",CL | TNT SPORTS 2  CL HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55289
+#EXTINF:-1 tvg-id="" tvg-name="CL | FOX SPORTS 1 CHILE HD" tvg-logo="http://latinoamericatv.vip:8080/images/371507b01db5c74060ae96ddbfcdf798.png" group-title="Nacionales CL",CL | FOX SPORTS 1 CHILE HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55290
+#EXTINF:-1 tvg-id="" tvg-name="CL | DIRECTV CHILE HD" tvg-logo="http://latinoamericatv.vip:8080/images/24e7b7375b5a479bf26c7383957b85ed.png" group-title="Nacionales CL",CL | DIRECTV CHILE HD
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55292
+#EXTINF:-1 tvg-id="" tvg-name="CL | RETRO PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu83PZVml2TblGQ5M-kaxeh1CIXfeVgRgfQ&usqp=CAU" group-title="Nacionales CL",CL | RETRO PLAY
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55293
+http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55294
+#EXTINF:-1 tvg-id="" tvg-name="CL | TV EDUCA" tvg-logo="https://i.ibb.co/mbp13XG/LOGO-tveduca-chile-scaled.jpg" group-title="Nacionales CL",CL | TV EDUCA
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
+http://user.tvcluboficial.com/stream/nov/nov/426.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
+http://user.tvcluboficial.com/stream/nov/nov/677.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
+http://user.tvcluboficial.com/stream/nov/nov/518.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
+http://user.tvcluboficial.com/stream/nov/nov/427.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
+http://user.tvcluboficial.com/stream/nov/nov/521.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
+http://user.tvcluboficial.com/stream/nov/nov/425.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
+http://user.tvcluboficial.com/stream/nov/nov/520.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
+http://user.tvcluboficial.com/stream/nov/nov/424.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
+http://user.tvcluboficial.com/stream/nov/nov/329.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
+http://user.tvcluboficial.com/stream/nov/nov/400.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="24/7",El Gallo Claudio 24/7
+http://user.tvcluboficial.com/stream/nov/nov/845.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
+http://user.tvcluboficial.com/stream/nov/nov/525.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
+http://user.tvcluboficial.com/stream/nov/nov/430.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
+http://user.tvcluboficial.com/stream/nov/nov/793.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
+http://user.tvcluboficial.com/stream/nov/nov/515.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",Garfield 24/7
+http://user.tvcluboficial.com/stream/nov/nov/812.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
+http://user.tvcluboficial.com/stream/nov/nov/522.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
+http://user.tvcluboficial.com/stream/nov/nov/786.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
+http://user.tvcluboficial.com/stream/nov/nov/887.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
+http://user.tvcluboficial.com/stream/nov/nov/671.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
+http://user.tvcluboficial.com/stream/nov/nov/886.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
+http://user.tvcluboficial.com/stream/nov/nov/888.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
+http://user.tvcluboficial.com/stream/nov/nov/524.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
+http://user.tvcluboficial.com/stream/nov/nov/669.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
+http://user.tvcluboficial.com/stream/nov/nov/357.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
+http://user.tvcluboficial.com/stream/nov/nov/798.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
+http://user.tvcluboficial.com/stream/nov/nov/431.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
+http://user.tvcluboficial.com/stream/nov/nov/523.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
+http://user.tvcluboficial.com/stream/nov/nov/661.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
+http://user.tvcluboficial.com/stream/nov/nov/416.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
+http://user.tvcluboficial.com/stream/nov/nov/787.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
+http://user.tvcluboficial.com/stream/nov/nov/721.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
+http://user.tvcluboficial.com/stream/nov/nov/420.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
+http://user.tvcluboficial.com/stream/nov/nov/419.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
+http://user.tvcluboficial.com/stream/nov/nov/672.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
+http://user.tvcluboficial.com/stream/nov/nov/663.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
+http://user.tvcluboficial.com/stream/nov/nov/422.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
+http://user.tvcluboficial.com/stream/nov/nov/673.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
+http://user.tvcluboficial.com/stream/nov/nov/674.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
+http://user.tvcluboficial.com/stream/nov/nov/889.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
+http://user.tvcluboficial.com/stream/nov/nov/432.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
+http://user.tvcluboficial.com/stream/nov/nov/676.m3u8
+#EXTINF:-1 tvg-logo="" group-title="24/7",The Walking Dead 24/7
+http://user.tvcluboficial.com/stream/nov/nov/800.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
+http://user.tvcluboficial.com/stream/nov/nov/421.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
+http://user.tvcluboficial.com/stream/nov/nov/662.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
+http://user.tvcluboficial.com/stream/nov/nov/675.m3u8
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
+http://user.tvcluboficial.com/stream/nov/nov/664.m3u8
