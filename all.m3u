@@ -382,7 +382,7 @@ http://user.tvcluboficial.com/stream/nov/nov/425.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
 http://user.tvcluboficial.com/stream/nov/nov/520.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-http://user.tvcluboficial.com/stream/nov/nov/424.m3u8
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/42567
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/nov/nov/329.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
@@ -402,7 +402,7 @@ http://user.tvcluboficial.com/stream/nov/nov/812.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
 http://user.tvcluboficial.com/stream/nov/nov/522.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
-http://user.tvcluboficial.com/stream/nov/nov/786.m3u8
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/26827
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
 http://user.tvcluboficial.com/stream/nov/nov/887.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
@@ -444,7 +444,7 @@ http://user.tvcluboficial.com/stream/nov/nov/422.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
 http://user.tvcluboficial.com/stream/nov/nov/673.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
-http://user.tvcluboficial.com/stream/nov/nov/674.m3u8
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/42557
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
 http://user.tvcluboficial.com/stream/nov/nov/889.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
@@ -461,3 +461,11 @@ http://user.tvcluboficial.com/stream/nov/nov/662.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/675.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
 http://user.tvcluboficial.com/stream/nov/nov/664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24H | Jessica Jones" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/51Yjqf4R9dL._SX342_QL70_ML2_.jpg" group-title="24/7",24H | Jessica Jones
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/26826
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rugrats: Aventuras en pañales" tvg-logo="https://img.discogs.com/LMq6l3JTkSoHFlSNJ1vRUbBW5DQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-6755885-1518637916-8509.jpeg.jpg" group-title="24/7",24/7 Rugrats: Aventuras en pañales
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/37329
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="https://e7.pngegg.com/pngimages/43/734/png-clipart-dinosaurs-dinosaurs-television-show-dinosaur-television-food.png" group-title="24/7",Dinosaurios
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/42560
+#EXTINF:-1 tvg-id="" tvg-name="24H | Batman" tvg-logo="https://m.media-amazon.com/images/I/71xYruXNf2L._SS500_.jpg" group-title="24/7",24H | Batman
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/26822
