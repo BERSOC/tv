@@ -96,6 +96,7 @@ http://user.tvcluboficial.com/stream/nov/nov/328.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" ,CNN en Español
 http://user.tvcluboficial.com/stream/nov/nov/136.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" ,Comedy Central
+#EXTVLCOPT:http-user-agent=tuplayer
 https://s1.dominiopersonal.xyz:2083/tuplayer/G6izEGxKCJ/29
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" ,De Película
 http://user.tvcluboficial.com/stream/nov/nov/21.m3u8
