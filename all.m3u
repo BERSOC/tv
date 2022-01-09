@@ -342,32 +342,6 @@ http://user.tvcluboficial.com/stream/nov/nov/775.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/101.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" ,Warner Channel
 http://user.tvcluboficial.com/stream/nov/nov/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CL | LA RED HD" tvg-logo="https://i.imgur.com/MVEJNym.png" group-title="Nacionales CL",CL | LA RED HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55281
-#EXTINF:-1 tvg-id="" tvg-name="CL | TVN HD" tvg-logo="https://i.imgur.com/AVUsqs0.png" group-title="Nacionales CL",CL | TVN HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55279
-#EXTINF:-1 tvg-id="" tvg-name="CL | MEGA HD" tvg-logo="https://i.imgur.com/3iZT356.png" group-title="Nacionales CL",CL | MEGA HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55276
-#EXTINF:-1 tvg-id="" tvg-name="CL | CHILEVISION HD" tvg-logo="https://i.imgur.com/vuLclYK.png" group-title="Nacionales CL",CL | CHILEVISION HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55273
-#EXTINF:-1 tvg-id="" tvg-name="CL | CANAL 13 HD" tvg-logo="https://i.imgur.com/CPFCUvK.png" group-title="Nacionales CL",CL | CANAL 13 HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55270
-#EXTINF:-1 tvg-id="" tvg-name="CL | 24 HORAS HD" tvg-logo="https://i.imgur.com/8DIarZK.png" group-title="Nacionales CL",CL | 24 HORAS HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55283
-#EXTINF:-1 tvg-id="" tvg-name="CL | CNN CHILE" tvg-logo="https://i.imgur.com/dnY2AfA.png" group-title="Nacionales CL",CL | CNN CHILE
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55284
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS CL HD *" tvg-logo="http://latinoamericatv.vip:8080/images/4af52202f77beb11ba59ce2056aa7878.png" group-title="Nacionales CL",CL | TNT SPORTS CL HD *
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55288
-#EXTINF:-1 tvg-id="" tvg-name="CL | TNT SPORTS 2  CL HD" tvg-logo="https://i.ibb.co/9br0KWF/unnamed.png" group-title="Nacionales CL",CL | TNT SPORTS 2  CL HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55289
-#EXTINF:-1 tvg-id="" tvg-name="CL | FOX SPORTS 1 CHILE HD" tvg-logo="http://latinoamericatv.vip:8080/images/371507b01db5c74060ae96ddbfcdf798.png" group-title="Nacionales CL",CL | FOX SPORTS 1 CHILE HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55290
-#EXTINF:-1 tvg-id="" tvg-name="CL | DIRECTV CHILE HD" tvg-logo="http://latinoamericatv.vip:8080/images/24e7b7375b5a479bf26c7383957b85ed.png" group-title="Nacionales CL",CL | DIRECTV CHILE HD
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55292
-#EXTINF:-1 tvg-id="" tvg-name="CL | RETRO PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzu83PZVml2TblGQ5M-kaxeh1CIXfeVgRgfQ&usqp=CAU" group-title="Nacionales CL",CL | RETRO PLAY
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55293
-#EXTINF:-1 tvg-id="" tvg-name="CL | TV EDUCA" tvg-logo="https://i.ibb.co/mbp13XG/LOGO-tveduca-chile-scaled.jpg" group-title="Nacionales CL",CL | TV EDUCA
-http://latinoamericatv.vip:8080/Restream264b/Mmmmmtgb/55297
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
 http://user.tvcluboficial.com/stream/nov/nov/426.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
