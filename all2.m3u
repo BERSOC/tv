@@ -1,8 +1,28 @@
 #EXTM3U
-#EXTINF:-1,CHI: 24 PLAY
-http://tvbross.com:8090/Jhon/Jhon123/18075
-#EXTINF:-1,CHI: 24 PLAY HD
+#EXTINF:-1,CHI: UCV
+http://tvbross.com:8090/Jhon/Jhon123/1771
+#EXTINF:-1,CHI: TV+ 
+http://tvbross.com:8090/Jhon/Jhon123/26
+#EXTINF:-1,CHI: TV+ HD
+http://tvbross.com:8090/Jhon/Jhon123/44642
+#EXTINF:-1,CHI: LA RED
+http://tvbross.com:8090/Jhon/Jhon123/31
+#EXTINF:-1,CHI: LA RED HD
+http://tvbross.com:8090/Jhon/Jhon123/32
+#EXTINF:-1,CHI: TVN
+http://tvbross.com:8090/Jhon/Jhon123/24
+#EXTINF:-1,CHI: TVN HD
+http://tvbross.com:8090/Jhon/Jhon123/25
+#EXTINF:-1,CHI: 24 Horas
 http://tvbross.com:8090/Jhon/Jhon123/2336
+#EXTINF:-1,CHI: MEGA
+http://tvbross.com:8090/Jhon/Jhon123/28
+#EXTINF:-1,CHI: MEGA HD
+http://tvbross.com:8090/Jhon/Jhon123/29
+#EXTINF:-1,CHI: CHILEVISION
+http://tvbross.com:8090/Jhon/Jhon123/14959
+#EXTINF:-1,CHI: CHILEVISION HD
+http://tvbross.com:8090/Jhon/Jhon123/22
 #EXTINF:-1,CHI: CANAL 13c
 http://tvbross.com:8090/Jhon/Jhon123/17
 #EXTINF:-1,CHI: CANAL 13i
@@ -11,38 +31,12 @@ http://tvbross.com:8090/Jhon/Jhon123/57151
 http://tvbross.com:8090/Jhon/Jhon123/20
 #EXTINF:-1,CHI: CANAL 13 HD OPC2
 http://tvbross.com:8090/Jhon/Jhon123/21
-#EXTINF:-1,CHI: CHILEVISION
-http://tvbross.com:8090/Jhon/Jhon123/14959
-#EXTINF:-1,CHI: CHILEVISION HD
-http://tvbross.com:8090/Jhon/Jhon123/22
 #EXTINF:-1,CHI: CNN
 http://tvbross.com:8090/Jhon/Jhon123/33
 #EXTINF:-1,CHI: CNN HD
 http://tvbross.com:8090/Jhon/Jhon123/14526
 #EXTINF:-1,CHI: ETC TV
 http://tvbross.com:8090/Jhon/Jhon123/23
-#EXTINF:-1,CHI: SGTV
-http://tvbross.com:8090/Jhon/Jhon123/48814
-#EXTINF:-1,CHI: TVN
-http://tvbross.com:8090/Jhon/Jhon123/24
-#EXTINF:-1,CHI: TVN HD
-http://tvbross.com:8090/Jhon/Jhon123/25
-#EXTINF:-1,CHI: TV+ 
-http://tvbross.com:8090/Jhon/Jhon123/26
-#EXTINF:-1,CHI: TV+ HD
-http://tvbross.com:8090/Jhon/Jhon123/44642
-#EXTINF:-1,CHI: MEGA
-http://tvbross.com:8090/Jhon/Jhon123/28
-#EXTINF:-1,CHI: MEGA HD
-http://tvbross.com:8090/Jhon/Jhon123/29
-#EXTINF:-1,CHI: LA RED
-http://tvbross.com:8090/Jhon/Jhon123/31
-#EXTINF:-1,CHI: LA RED HD
-http://tvbross.com:8090/Jhon/Jhon123/32
-#EXTINF:-1,CHI: TELETRAK TV
-http://tvbross.com:8090/Jhon/Jhon123/14503
-#EXTINF:-1,CHI: UCV
-http://tvbross.com:8090/Jhon/Jhon123/1771
 #EXTINF:-1,ANIMAL PLANET
 http://tvbross.com:8090/Jhon/Jhon123/375
 #EXTINF:-1,ANIMAL PLANET HD
