@@ -382,8 +382,8 @@ http://user.tvcluboficial.com/stream/nov/nov/521.m3u8
 http://user.tvcluboficial.com/stream/nov/nov/425.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
 http://user.tvcluboficial.com/stream/nov/nov/520.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/42567
+#EXTINF:-1, group-title="24/7", DRAGON BALL SUPER HD 24/7
+http://tvbross.com:8090/Jhon/Jhon123/17745
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
 http://user.tvcluboficial.com/stream/nov/nov/329.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
@@ -667,8 +667,6 @@ http://tvbross.com:8090/Jhon/Jhon123/2369
 http://tvbross.com:8090/Jhon/Jhon123/17754
 #EXTINF:-1, group-title="24/7", DRAGON BALL GT HD 24/7
 http://tvbross.com:8090/Jhon/Jhon123/17746
-#EXTINF:-1, group-title="24/7", DRAGON BALL SUPER HD 24/7
-http://tvbross.com:8090/Jhon/Jhon123/17745
 #EXTINF:-1, group-title="24/7", EL CHAVO DEL 8 24/7
 http://tvbross.com:8090/Jhon/Jhon123/20230
 #EXTINF:-1, group-title="24/7", EL CHAPULIN COLORADO 24/7
